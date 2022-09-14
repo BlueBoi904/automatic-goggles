@@ -1,0 +1,17 @@
+{
+  "name": "exercise_tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlueBoi904/automatic-goggles.git"
+  },
+  "keywords": [],
+  "author": "Cliff Mirschel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BlueBoi904/automatic-goggles/issues"
+  }
+}
